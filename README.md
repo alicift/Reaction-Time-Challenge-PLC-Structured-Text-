@@ -7,7 +7,9 @@ The game is powered on via GAMEONBUTTON.
 
 The Countdown: Before the game starts, the system calculates a variable delay (WILLCOUNT) using two background timers. This ensures the "Green Light" timing is different each time.The Trigger: When GAMESTART is activated, the system waits for the calculated duration. Once reached, the "Green Light" (T2) turns on.
 
-Measurement: As soon as the light is on, three parallel timers (1s, 0.1s, and 0.01s) begin tracking your reaction time.Result Capture: When the user hits the SHOWBUTTON, the counters are frozen. The system instantly calculates the final score using the formula:
+Measurement: As soon as the light is on, three parallel timers (1s, 0.1s, and 0.01s) begin tracking your reaction time.
+
+Result Capture: When the user hits the SHOWBUTTON, the counters are frozen. The system instantly calculates the final score using the formula:
 $Result = (Counter_{Sec} \times 1.0) + (Counter_{Deci} \times 0.1) + (Counter_{Centi} \times 0.01)$
 
 Grading:
