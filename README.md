@@ -36,6 +36,8 @@ Example of the calculation logic:
 📺 Logic Demonstration & HMI Interaction 🛠️
 
 
-https://github.com/user-attachments/assets/00b8924a-cd0a-4273-aaa8-1996c302f663
+https://github.com/user-attachments/assets/b9e60014-797f-44ae-b16c-a077f161e5ca
+
+
 
 
