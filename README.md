@@ -32,3 +32,10 @@ Example of the calculation logic:
 - Import the provided Structured Text into your PLC environment (TIA Portal, CODESYS, Schneider Machine Expert, etc.).
 - Map the global variables (GAMEONBUTTON, STARTBUTTON, SHOWBUTTON) to your HMI or physical push buttons.
 - Monitor the SHOWCOUNT variable to see the reaction speed on your display.
+
+📺 Logic Demonstration & HMI Interaction 🛠️
+
+
+https://github.com/user-attachments/assets/00b8924a-cd0a-4273-aaa8-1996c302f663
+
+
