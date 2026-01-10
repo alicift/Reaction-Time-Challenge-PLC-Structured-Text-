@@ -1,6 +1,9 @@
 # Reaction-Time-Challenge-PLC-Structured-Text-
 Reaction Time Challenge (PLC Structured Text)A reaction speed measurement game developed using Structured Text (ST) for PLC/HMI systems. The logic uses a multi-timer and multi-counter approach to calculate high-precision results with a "snapshot" display feature.
 
+![WhatsApp Image 2026-01-11 at 02 58 40](https://github.com/user-attachments/assets/736d31b6-43b6-4ac3-a652-06873320d1d7)
+
+
 🕹️ How the Game WorksSystem Initialization: 
 
 The game is powered on via GAMEONBUTTON.
