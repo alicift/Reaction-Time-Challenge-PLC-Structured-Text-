@@ -11,9 +11,10 @@ Measurement: As soon as the light is on, three parallel timers (1s, 0.1s, and 0.
 $Result = (Counter_{Sec} \times 1.0) + (Counter_{Deci} \times 0.1) + (Counter_{Centi} \times 0.01)$
 
 Grading:
-CONGRATS: Reaction time < 1.0 second.
-NOT BAD: Reaction time between 1.0 and 9.0 seconds.
-TRY AGAIN: Failed to press in time or pressed too early.
+
+- CONGRATS: Reaction time < 1.0 second.
+- NOT BAD: Reaction time between 1.0 and 9.0 seconds.
+- TRY AGAIN: Failed to press in time or pressed too early.
 
 
 🛠️ Logic Breakdown
