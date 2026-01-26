@@ -44,7 +44,3 @@ Example of the calculation logic:
 
 
 https://github.com/user-attachments/assets/b9e60014-797f-44ae-b16c-a077f161e5ca
-
-
-
-
